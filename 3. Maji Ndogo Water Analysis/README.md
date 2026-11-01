@@ -34,7 +34,7 @@ This dashboard examines the distribution of water sources across Maji Ndogo, inc
 
 It compares rural and urban locations, populations served by different source types, and water-source availability across towns.
 
-![National Overview](screenshots/National%20Overview.png)
+![National Overview](Screenshots/National%20Overview.png)
 
 ### 2. Queue Analysis
 
@@ -42,7 +42,7 @@ This dashboard investigates water collection waiting times by day and hour, alon
 
 Saturday stands out as a particularly high-demand day, highlighting the importance of addressing waiting times at shared water sources.
 
-![Queue Analysis](screenshots/Queue%20Analysis.png)
+![Queue Analysis](Screenshots/Queue%20Analysis.png)
 
 ### 3. Pollution Analysis
 
@@ -56,7 +56,7 @@ The displayed results indicate:
 
 These findings highlight the importance of water treatment and infrastructure improvements.
 
-![Pollution Analysis](screenshots/Pollution%20Analysis.png)
+![Pollution Analysis](Screenshots/Pollution%20Analysis.png)
 
 ### 4. Crime Analysis
 
@@ -64,7 +64,7 @@ This dashboard explores reported crimes associated with water collection, includ
 
 It compares incidents by crime type, province, gender category, day and hour to identify patterns relevant to water collection safety.
 
-![Crime Analysis](screenshots/Crime%20Analysis.png)
+![Crime Analysis](Screenshots/Crime%20Analysis.png)
 
 ### 5. Infrastructure Improvement Planning
 
@@ -78,7 +78,7 @@ This dashboard evaluates proposed infrastructure interventions, including:
 
 It compares improvement quantities, population figures and estimated budgets across provinces.
 
-![Improvement Planning](screenshots/Improvement%20Planning.png)
+![Improvement Planning](Screenshots/Improvement%20Planning.png)
 
 ## Key Findings
 
