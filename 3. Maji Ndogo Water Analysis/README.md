@@ -1,4 +1,4 @@
-# Maji Ndogo Water Analysis Power BI
+# Maji Ndogo Water Analysis using Power BI
 
 ## Project Overview
 
